@@ -89,6 +89,12 @@
     "english": "Reviews",
     "macedonian": "Осврти"
   },
+    {
+    "id": "headerhtmlBeforeAfter",
+    "german": "Vor/Nach",
+    "english": "Before/After",
+    "macedonian": "Пред/Потоа"
+  },
   {
     "id": "headerhtmlAboutUs",
     "german": "Über uns",
